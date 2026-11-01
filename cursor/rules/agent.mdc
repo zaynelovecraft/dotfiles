@@ -1,0 +1,12 @@
+---
+description: Baseline engineering & agent rules
+alwaysApply: true
+---
+
+# Agent Workflow Rules
+
+- Goal -> result. Execute end-to-end instead of stopping at advice.
+- Minimize scope. Match existing conventions in the target repo.
+- Prefer `rg` over `grep`/`find`.
+- Validate changes with `npm run lint` and `npm run build` before claiming completion.
+- Never commit `.env` files, credentials, or API keys.

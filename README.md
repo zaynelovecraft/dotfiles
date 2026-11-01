@@ -1,6 +1,11 @@
 # ~/dotfiles
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Article](https://img.shields.io/badge/Deep_Dive-Read_Post-10b981)](https://www.zaynelovecraft.com/articles/filesystem-first-ai-agent-os-cursor-claude)
+
 Opinionated macOS environment — fast Zsh startup, single-file Neovim config, automatic per-remote Git identity switching, and Cursor agent defaults.
+
+> 📖 **Read the full setup breakdown:** [Filesystem-First AI Agent OS for Cursor and Claude Code](https://www.zaynelovecraft.com/articles/filesystem-first-ai-agent-os-cursor-claude)
 
 ```text
 .

@@ -1,0 +1,15 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  syntax-check:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: bash -n install.sh
+      - run: zsh -n zsh/.zshrc
+      - run: test -s nvim/init.lua

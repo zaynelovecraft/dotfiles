@@ -1,5 +1,7 @@
 # ~/dotfiles
 
+[![CI](https://github.com/zaynelovecraft/dotfiles/actions/workflows/ci.yml/badge.svg)](https://github.com/zaynelovecraft/dotfiles/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/zaynelovecraft/dotfiles)](https://github.com/zaynelovecraft/dotfiles/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Article](https://img.shields.io/badge/Deep_Dive-Read_Post-10b981)](https://www.zaynelovecraft.com/articles/filesystem-first-ai-agent-os-cursor-claude)
 
